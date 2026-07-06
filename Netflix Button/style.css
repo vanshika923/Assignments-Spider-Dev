@@ -27,3 +27,6 @@ font-family: 'Helvetica Neue', Arial, sans-serif;
 letter-spacing:1px;
 
 }
+.Netflix-Button:hover{
+    background: rgb(77, 1, 1);
+}
