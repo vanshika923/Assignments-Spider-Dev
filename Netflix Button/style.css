@@ -1,0 +1,29 @@
+
+
+body{
+    height:100vh;
+    background-color: black;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.Netflix-Button {
+background: linear-gradient(
+    180deg,
+    #ff4d4d 0%,
+    #e50914 45%,
+    #b20710 100%
+);
+border:none;
+border-radius: 8px;
+padding: 20px;
+color: white;
+cursor: pointer;
+font-size: 20px;
+font-weight:bold;
+font-family: 'Helvetica Neue', Arial, sans-serif;
+letter-spacing:1px;
+
+}
